@@ -12,5 +12,6 @@
 г. Суму по модулю 2 всех бит числа. 
 
 Примеры входных\выходных параметров:
-o   data: e000000f => begin: 3 end: 4 bits set: 7 bits xor: 1
+o   data: e000000f => begin: 3 end: 4 bits set: 7 bits xor: 1 
+
 o   data: e0f => begin: 0 end: 4 bits set: 7 bits xor: 1
